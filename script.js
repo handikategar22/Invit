@@ -1,0 +1,1 @@
+/* JavaScript (script.js) from previous section */
